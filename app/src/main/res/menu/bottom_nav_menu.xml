@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_baseline_eco_24"
+        android:title="Herbs" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_baseline_local_hospital_24"
+        android:title="Home Remedies" />
+
+    <item
+        android:id="@+id/rate"
+        android:icon="@drawable/ic_star_black_24dp"
+        android:title="Rate Us" />
+    <item
+        android:id="@+id/prv"
+        android:icon="@drawable/ic_copyright_black_24dp"
+        android:title="Privacy" />
+
+</menu>
+
+

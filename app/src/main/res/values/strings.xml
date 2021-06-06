@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Herbs Remedies</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="not_admin_name">herbs remedies channel</string>
+    <string name="not_admin_description">herbs remedies channel</string>
+    <string name="ad_view"></string>
+</resources>
